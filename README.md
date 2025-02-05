@@ -11,7 +11,7 @@ Your feedback is welcome at [Issue Tracker](https://github.com/SMPTE/st2139/issu
 
 ## Public Committee Draft (PCD) Notice
 
-The following elements are made available for a public review period ending no earlier than {2025-02-10}, and no later than {2025-05-12}:
+The following elements are made available for a public review period ending no earlier than 2025-02-10, and no later than 2025-05-12:
 
 * [{prose element}]({link to prose element})
 * [{element #1}]({link to element #1})
